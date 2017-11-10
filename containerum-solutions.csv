@@ -1,2 +1,2 @@
-Name,CPU,RAM,Images,URL,Description
-redmine-postgresql-solution,300m,256Mi,redmine;postgres,https://github.com/containerum/redmine-posgresql-solution,Redmine is a web-based project management and issue tracking tool. Using postgresql as database.
+Name,CPU,RAM,Images,URL
+redmine-postgresql-solution,300m,256Mi,redmine;postgres,,https://github.com/containerum/redmine-postgresql-solution 
