@@ -1,2 +1,9 @@
-Name,CPU,RAM,Images,URL
-redmine-postgresql-solution,300m,256Mi,redmine;postgres,https://github.com/containerum/redmine-postgresql-solution 
+Name;CPU;RAM;Images;URL
+redmine-postgresql-solution;300m;256Mi;"redmine;postgres";https://github.com/containerum/redmine-postgresql-solution 
+redmine-mariadb-solution;1000m;1024Mi;"redmine;mariadb";https://github.com/containerum/redmine-mariadb-solution
+magento-solution;1000m;1024Mi;"mysql;magento2";https://github.com/containerum/magento-solution
+MariaDB-solution;500m;512Mi;mariadb;https://github.com/containerum/MariaDB-solution
+postgresql-solution;500m;512Mi;postgres;https://github.com/containerum/postgresql-solution
+grafana-xxl-solution;500m;512Mi;grafana-xxl;https://github.com/containerum/grafana-xxl-solution
+rabbitmq-manager-solution;500m;500Mi;rabbitmq;https://github.com/containerum/rabbitmq-manager-solution
+webpack-3.8-ssh-solution;500m;500Mi;webpack-3.8-ssh-solution;https://github.com/containerum/webpack-3.8-ssh-solution
